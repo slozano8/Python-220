@@ -15,6 +15,8 @@ score = float(gpa)
 if score >= 3.5:
     print("Congratulations " + fullName + "," + " you have made the Dean's List")
 else:
-    if score <= 3.25:
+    if score >= 3.25:
        print(fullName + " you are an Honor Roll student")
+    else:
+        print(fullName + " you do not qualify for Honor Roll nor Deans list")
     
