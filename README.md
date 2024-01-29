@@ -16,6 +16,7 @@ This repository contains many programs that are homework assignment from Python 
 
 
 #MO2_if else and while
+
 A simple app that will check is a student made it to Dean's list or an Honor Roll
 This Python app will accept student names and GPAs and test if the student qualifies for either the Dean's List or the Honor Roll.
 It will first ask for and accept a student's last name.
