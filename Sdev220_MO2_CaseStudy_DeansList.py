@@ -19,4 +19,8 @@ else:
        print(fullName + " you are an Honor Roll student")
     else:
         print(fullName + " you do not qualify for Honor Roll nor Deans list")
-    
+
+#BUG REPORT
+#First run my fullname was printing together without a space in between, I then did some odifications.
+# Run second program again and still no space in between first name and last name.
+# I made some small changes to code again and finally printed the way I wanted
