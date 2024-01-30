@@ -1,7 +1,8 @@
 # Python_220
 This repository contains many programs that are homework assignment from Python 220
 
-# MO1_NumbersAndTypes
+TXT FILES Python_220 Spring_2024
+#MO1 Assignments
 3.1 How many seconds are in an hour? Use the interactive interpreter as a calculator and multiply the number of seconds in a minute (60) by the number of minutes in an hour (also 60).
 
 3.2 Assign the result from the previous task (seconds in an hour) to a variable called seconds_per_hour.
