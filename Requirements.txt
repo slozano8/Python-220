@@ -24,3 +24,12 @@ App will quit processing student records if the last name entered is 'ZZZ'.
 App will ask for and accept a student's first name. App will ask for and accept the student's GPA as a float.
 The app will run and test if the student's GPA is 3.5 or greater and, if so, it will  print a message saying that the student has made the Dean's List.
 The app will run and test if the student's GPA is 3.25 or greater and, if so, print a message saying that the studnet has made the Honor Roll.
+
+#MO3_Lists and Functions
+
+7.4 Make a list called things with these three strings as elements: "mozzarella", "cinderella", "salmonella".
+
+7.5 Capitalize the element in things that refers to a person and then print the list. Did it change the element in the list?
+9.2 Define a generator function called get_odds() that returns the odd numbers from range(10). Use a for loop to find and print the third value returned.
+
+9.3 Define a decorator called test that prints 'start' when a function is called, and 'end' when it finishes.
