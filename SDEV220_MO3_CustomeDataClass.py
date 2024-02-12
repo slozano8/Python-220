@@ -59,3 +59,7 @@ class Profile():
     
     if __name__=="__main__":
      pass
+
+#BUG_REPORT: First run had invalid syntax, line 46.
+#Misspell profile on line 51 
+# More syntax errors.
