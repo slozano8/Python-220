@@ -2,7 +2,7 @@
 """
 Created on Thu Feb 15 08:34:03 2024
 
-@author: Santo
+@author: Santos
 """
 
 #11.2 zoo.py file that with define function that prints open hours.
@@ -26,7 +26,9 @@ if __name__=="__main__":
     print()
 
    
-       
+#BUg report: Had trouble at first because i was doing everything in one file,
+#had to create two files in order for the program to work.  
+
             
             
          
