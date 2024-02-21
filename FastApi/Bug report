@@ -1,0 +1,14 @@
+ File "C:\Users\Santo\OneDrive\Desktop\FastApi\working.py" line 7
+           "price": "3.99"
+                  ^
+SyntaxError: invalid syntax
+
+ File "C:\Users\Santo\OneDrive\Desktop\FastApi\working.py", line 12
+    def  get_item(item_id: int = Path(None, description = " The id blah") ):
+    ^
+SyntaxError: invalid syntax
+
+ File "C:\Users\Santo\OneDrive\Desktop\FastApi\working.py", line 13
+    title: str
+              ^
+IndentationError: unindent does not match any outer indentation level
